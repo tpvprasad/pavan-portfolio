@@ -9,7 +9,7 @@ import Footer from "./components/Footer";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Sreerag K P | React Developer",
+  title: "T Pavan Vara Prasad | React Developer",
   description: "full stack developer",
   alternates: {
     canonical: "https://sreeragofficial.vercel.app/",

@@ -11,7 +11,7 @@ const Contact = () => {
         <p className="text-lg tracking-wide font-medium text-center">
           I am always open to discussing with our projects.
         </p>
-        <Link href="mailto:sreeragkjnivas4324602@gmail.com">
+        <Link href="mailto:tpvprasad98@gmail.com">
           <button
             type="button"
             className="w-52 h-14 bg-gradient-to-r from-blue-600 via-blue-700 to-indigo-950 text-xl font-bold text-white rounded-lg hover:from-indigo-950 hover:to-blue-600 duration-300"

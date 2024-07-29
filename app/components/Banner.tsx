@@ -15,7 +15,7 @@ const Banner = () => {
       {/* description */}
       <div className="w-3/4 flex flex-col items-center md:items-start gap-2">
         <h1 className="text-5xl max-sm:text-4xl max-sm:text-center font-bold text-white">
-          Sreerag K P
+          T Pavan Vara Prasad
         </h1>
         <h3 className="text-2xl font-semibold bg-clip-text text-transparent bg-gradient-to-tr from-blue-300 via-red-300 to-indigo-300 tracking-wide">
           React Developer

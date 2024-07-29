@@ -8,7 +8,7 @@ const Aboutme = () => {
       <Title text="About Me" icon={<SiInformatica />} />
       <div className="text-lg tracking-wider flex flex-col gap-6">
         <p>
-          Hi, I am Sreerag K P, a B Tech (CSE) graduate with a passion for full
+          Hi, I am T Pavan Vara Prasad, a B Tech (CSE) graduate with a passion for full
           stack development . I am excited to begin my career in web development
           and am eager to learn and grow in this field. My skills include Nextjs
           Tailwind css, Typescript, javascript,react ,html and css and I am
@@ -21,13 +21,12 @@ const Aboutme = () => {
           I am a motivated and dedicated individual who is ready to contribute
           to a team and make a positive impact. <br />
           My Age : 24 <br />
-          Place : kerala,India <br />
-          Date of birth: 21-01-1999 <br />
+          Place : Hyderabad,India <br />
+          Date of birth: 13-03-1998 <br />
           Graduation: Bachelor of technology in computer science and engineering{" "}
           <br />
-          CGPA: 7.46 <br />
-          Graduated from :Government Engineering Collage , Wayanad kerala. in
-          2021 (Under KTU - University)
+          CGPA: 7.0 <br />
+          Graduated from :National Institute of Technology, Karnataka-Surathkal(NITK)
         </p>
       </div>
     </div>
