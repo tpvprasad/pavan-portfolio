@@ -11,9 +11,6 @@ import { Metadata } from "next";
 export const metadata: Metadata = {
   title: "T Pavan Vara Prasad | React Developer",
   description: "full stack developer",
-  alternates: {
-    canonical: "https://sreeragofficial.vercel.app/",
-  },
 };
 
 export default function Home() {
